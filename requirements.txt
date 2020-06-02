@@ -1,2 +1,5 @@
 keras
 numpy
+tensorflow
+matplotlib
+scikit-learn
